@@ -12,7 +12,7 @@
 
 - 🏫 **2012-2023**: Gymnasium № 1, Vitebsk
 - 🎓 **2023-Present**: Belarusian State University  
-  Faculty of Applied Mathematics and Computer Science, Minsk
+  Faculty of Applied Math and Computer Science, Minsk
 
 ---
 
