@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Varvara Schekotova</h1>
 <h3 align="left">Connect with me:</h3>
 
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram&logoColor=white)](https://t.me/varvr)
+[![Instagram](https://img.shields.io/badge/Instagram-Contact-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/varrvr)
+[![Mail.Ru](https://img.shields.io/badge/Mail.Ru-Email-D14836?logo=mail.ru&logoColor=white)](mailto:shchekotovavarya@mail.ru)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/varvr)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/schekotova)
+
+
 ## 🎓 Education
 
 - 🏫 **2012-2023**: Gymnasium № 1, Vitebsk
